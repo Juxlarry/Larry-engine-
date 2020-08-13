@@ -1,6 +1,6 @@
 {
   "name": "universal_validator_pack",
-  "version": "1.0.4",
+  "version": "1.2.1",
   "description": "A universal validator package for various inputs ",
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,13 @@
     "validator"
   ],
   "author": "larry danso",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juxlarry/Universal_Validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juxlarry/Universal_Validator/issues"
+  },
+  "homepage": "https://github.com/Juxlarry/Universal_Validator#readme"
 }

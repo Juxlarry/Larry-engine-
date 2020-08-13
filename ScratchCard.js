@@ -11,7 +11,7 @@ class ScratchCardValidator{
 
     validateScratchCardNumber(){
 
-        let regex = /^\(?([0-9]{14})$/;
+        let regex =  (/^[0-9]+$/) ;
 
 
         if (regex.test(this.scratchCard)) {

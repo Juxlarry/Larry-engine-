@@ -75,7 +75,7 @@ $ npm install
 
 >>>>Validate Phone Number Validator - Ghana Only 
 
->>>>Validate Credit Cards Validator - Visa Card, MasterCard, JCB Card, Diners Club card, Discover Card, AMeX Card.
+>>>>Validate Credit Cards Validator - Visa Card, MasterCard, JCB Card, Diners Club card, Discover Card, AMeX Card. To validate a kind of kind, you need to call its own function
 
 >>>>Validate Scratch Card for Phone Credit - Ghana Only
 
